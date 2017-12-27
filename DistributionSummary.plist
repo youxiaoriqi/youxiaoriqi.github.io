@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Rocket.Chat.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>8025D3D2CB7E95A009EA68DC3A94F6C4BDEF1E31</string>
+				<key>dateExpires</key>
+				<string>2018/12/23</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>GBWA2T9997.tech.waynes.chat</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>GBWA2T9997</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Rocket.Chat.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>83409faa-a874-4087-a683-1962bb1ee0cc</string>
+				<key>name</key>
+				<string>chat.test</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>GBWA2T9997</string>
+				<key>name</key>
+				<string>Shenzhen Waynes Technology Co., Ltd</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
